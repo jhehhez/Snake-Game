@@ -1,7 +1,5 @@
 from turtle import Turtle
 
-from main import segment
-
 STARTING_POSITION =[(20,0), (0,0), (-20,0)]
 MOVE_DISTANCE = 20
 
